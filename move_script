@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+cp pill_remover.js ~/.config/spicetify/Extensions
+spicetify apply && spicetify enable-devtools
